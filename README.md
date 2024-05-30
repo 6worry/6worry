@@ -17,7 +17,7 @@
 ![html5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![jquery](https://img.shields.io/badge/jquery-0769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)
-![dbeaver](https://img.shields.io/badge/dbeaver-55b8bf.svg?&style=for-the-badge&logo=dbeaver&logoColor=white)
+![dbeaver](https://img.shields.io/badge/dbeaver-000000.svg?&style=for-the-badge&logo=dbeaver&logoColor=white)
 
 ### ⚙️ Tool
 ![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white)
