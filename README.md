@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+#### 완벽을 향해 나아가는 개발자
 ### 백엔드개발자 진영록입니다.
 ###### I'm YOUNG ROK JIN, BE Developer.
 
